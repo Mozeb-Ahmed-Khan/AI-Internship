@@ -1,8 +1,8 @@
 # 🏢 AI Intern - Punjab Safe Cities Authority
 
-🚀 **Internship Duration:** [Start Date] - [End Date]  
+🚀 **Internship Duration:** [Sep 2024] - [Oct 2024]  
 📍 **Location:** Lahore, Pakistan  
-🔗 **LinkedIn Profile:** [Your LinkedIn Profile]  
+🔗 **LinkedIn Profile:** [https://www.linkedin.com/in/mozeb-khan-m5sa12345/]  
 
 ---
 
