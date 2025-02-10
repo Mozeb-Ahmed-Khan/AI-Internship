@@ -53,8 +53,8 @@ This repository contains research notes, scripts, and model implementations rela
 
 ## 📞 Connect with Me  
 
-📧 **Email:** [Your Email]  
-🔗 **LinkedIn:** [Your LinkedIn Profile]  
-💻 **GitHub:** [Your GitHub Profile]  
+📧 **Email:** [mozeb.ahmed.khan@gmail.com]  
+🔗 **LinkedIn:** [(https://github.com/Mozeb-Ahmed-Khan/AI-Internship)]  
+
 
 Feel free to check out my other projects and contributions! 🚀  
